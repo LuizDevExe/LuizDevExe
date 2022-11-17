@@ -9,8 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/LuizDevExe">
-  <img width="48%"height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizDevExe&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDevExe&layout=compact&langs_count=7&theme=ocean_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizDevExe&count_private=true&include_all_commits=true&show_icons=true&theme=ocean_dark&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDevExe&theme=ocean_dark&hide_border=false&&layout=compact"/>
+  </a>
 </div>
   
 ## Tecnologias que estudo atualmente:
