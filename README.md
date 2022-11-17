@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+visitantes,+eu+sou+o+LuizDev.exe;Tenho+21+anos;Moro+no+Brasil,+PE;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Sejam+Bem-Vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+visitantes,+eu+sou+o+LuizDev.exe;Sejam+Bem-Vindos!+:%29)](https://git.io/typing-svg)
+
+- 👨🏽‍💻 Fissurado por tecnologia
+- 🏫 Estudante Análise e Desenvolvimento de Sistemas 3/4
+- 😶‍🌫️ Procuro enxergar a vida por outros ângulos através da programação
 
 
 <div align="center">
@@ -20,9 +24,6 @@
 </div><br/>
   
   
-Fissurado por tecnologia, metodologias e por enxergar a vida de outros ângulos através da programação.
-  
-  
 ## Social e contato:
    
 <div> 
@@ -40,4 +41,4 @@ Fissurado por tecnologia, metodologias e por enxergar a vida de outros ângulos 
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
