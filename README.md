@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 Entusiasta por tecnologia
 - 🏫 Formado em Análise e desenvolvimento de Sistemas
-- 🏫 Estudante da Cubos Academy
+- 🏫 Formado no curso da Cubos Academy
 - 😶‍🌫️ Procuro enxergar a vida por outros ângulos através da programação
 
 
