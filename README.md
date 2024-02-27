@@ -12,7 +12,7 @@
 > Começando a registrar a jornada até a primeira vaga.
 
 ! Desenvolvedor Web
-! Apaixonado por front-end
+! Apaixonado por Front-end
 ! Geek e entusiasta Tech
 ```
 
