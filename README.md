@@ -15,7 +15,6 @@ Apaixonado por música, cultura e tecnologia, encontrando equilíbrio entre meus
 #### 🔗 Me encontre
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F1CE&color:FFF)](https://www.linkedin.com/in/dev-luiz-alves/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00F1CE&color:FFF)](https://www.instagram.com/luiz_dev.exe/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00F1CE)](mailto:dev.luiz.alves@gmail.com)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=00F1CE)](https://luizdevexe.vercel.app/)
 
