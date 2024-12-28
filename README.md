@@ -7,13 +7,12 @@
 
 <img align="right" height="100" src="https://github.com/LuizDevExe/LuizDevExe/assets/109562299/46817035-5034-47c8-bf10-481ff8e35ad5"/>
 
+<div align=left>
 <p align="justify"  width="40%"> Salve, tudo certo? Sou desenvolvedor Full-Stack com formação em Análise e Desenvolvimento de Sistemas. Me deparei com o vasto mundo da programação em 2019 e foi amor à primeira vista. Desde então, tenho me aventurado nesse universo vasto e imersivo.
 <br>
-Apaixonado por música, cultura e tecnologia, 
-<br>
-encontrando equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
+Apaixonado por música, cultura e tecnologia, encontrando equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
 </p>
-
+</div>
 #### 🔗 Me encontre
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F1CE&color:FFF)](https://www.linkedin.com/in/dev-luiz-alves/)
