@@ -7,7 +7,7 @@
 
 <img align="right" height="100" src="https://github.com/LuizDevExe/LuizDevExe/assets/109562299/46817035-5034-47c8-bf10-481ff8e35ad5"/>
 
-<p align="justify"  width="50%"> Olá, eu sou Luiz Pedro, um desenvolvedor Full-Stack com formação em Análise e Desenvolvimento de Sistemas. Me deparei com o vasto mundo da programação em 2019 e foi amor à primeira vista. Desde então, tenho me aventurado nesse universo vasto e imersivo.
+<p align="justify"  width="50%"> Salve, tudo certo? Sou desenvolvedor Full-Stack com formação em Análise e Desenvolvimento de Sistemas. Me deparei com o vasto mundo da programação em 2019 e foi amor à primeira vista. Desde então, tenho me aventurado nesse universo vasto e imersivo.
 <br>
 Apaixonado por música, cultura e tecnologia, encontrando equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
 </p>
