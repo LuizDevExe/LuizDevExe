@@ -7,10 +7,9 @@
 
 <img align="right" height="100" src="https://github.com/LuizDevExe/LuizDevExe/assets/109562299/46817035-5034-47c8-bf10-481ff8e35ad5"/>
 
-<div align=left>
-<p align="justify"  width="40%"> 
+<div align=left  width="40%">
+<p align="justify" > 
 Salve, tudo certo? Sou um pernambucano de se jogou nesse mundo da programação e desde então não quis mais sair, graduado em ADS e com especialização pela cubos academy. Aqui tu pode acompanhar meus projetos e trocar um papo comigo. Se avexe não e cola junto! 
-<br>
 Não passo o dia todo codando, sou apaixonado por música, cultura e tecnologia, tento encontrar equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
 </p>
 </div>
