@@ -8,9 +8,10 @@
 <img align="right" height="100" src="https://github.com/LuizDevExe/LuizDevExe/assets/109562299/46817035-5034-47c8-bf10-481ff8e35ad5"/>
 
 <div align=left>
-<p align="justify"  width="40%"> Salve, tudo certo? Sou desenvolvedor Full-Stack com formação em Análise e Desenvolvimento de Sistemas. Me deparei com o vasto mundo da programação em 2019 e foi amor à primeira vista. Desde então, tenho me aventurado nesse universo vasto e imersivo.
+<p align="justify"  width="40%"> 
+Salve, tudo certo? Sou um pernambucano de se jogou nesse mundo da programação e desde então não quis mais sair, graduado em ADS e com especialização pela cubos academy. Aqui tu pode acompanhar meus projetos e trocar um papo comigo. Se avexe não e cola junto! 
 <br>
-Apaixonado por música, cultura e tecnologia, encontrando equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
+Não passo o dia todo codando, sou apaixonado por música, cultura e tecnologia, tento encontrar equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
 </p>
 </div>
 #### 🔗 Me encontre
