@@ -9,7 +9,9 @@
 
 <p align="justify"  width="40%"> Salve, tudo certo? Sou desenvolvedor Full-Stack com formação em Análise e Desenvolvimento de Sistemas. Me deparei com o vasto mundo da programação em 2019 e foi amor à primeira vista. Desde então, tenho me aventurado nesse universo vasto e imersivo.
 <br>
-Apaixonado por música, cultura e tecnologia, encontrando equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
+Apaixonado por música, cultura e tecnologia, 
+<br>
+encontrando equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
 </p>
 
 #### 🔗 Me encontre
