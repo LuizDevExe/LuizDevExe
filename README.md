@@ -10,8 +10,7 @@
 <div align=left  >
 <p align="justify" > 
 Salve, tudo certo? Sou um pernambucano de se jogou nesse mundo da programação e desde então não quis mais sair, graduado em ADS e com especialização pela cubos academy. Aqui tu pode acompanhar meus projetos e trocar um papo comigo. Se avexe não e cola junto! 
-Não passo o dia todo codando, sou apaixonado por música, cultura e tecnologia, tento encontrar equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.
-</p>
+Não passo o dia todo codando, sou apaixonado por música, cultura e tecnologia, tento encontrar equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.</p>
 </div>
 #### 🔗 Me encontre
 
