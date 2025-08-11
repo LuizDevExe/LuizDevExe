@@ -20,8 +20,9 @@ Não passo o dia todo codando, sou apaixonado por música, cultura e tecnologia,
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=00F1CE)](https://luizdevexe.vercel.app/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizDevExe&theme=transparent&bg_color=000&border_color=214DFC&show_icons=true&icon_color=532EA7&title_color=00F1CE&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com?user=LuizDevExe&theme=neon&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&currStreakNum=00F1CEFE&dates=FFFFFFFE&currStreakLabel=532EA7&border=532EA7&excludeDaysLabel=214DFC)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuizDevExe&bg_color=000&border_color=214DFC&title_color=00F1CE&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuizDevExe&theme=neon&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&currStreakNum=00F1CEFE&dates=FFFFFFFE&currStreakLabel=532EA7&border=214DFC&excludeDaysLabel=214DFC)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDevExe&layout=compact&bg_color=000&border_color=214DFC&title_color=00F1CE&text_color=FFF)
 
 ### 🛠 **My Tools:**
 
