@@ -12,7 +12,8 @@
 Salve, tudo certo? Sou um pernambucano de se jogou nesse mundo da programação e desde então não quis mais sair, graduado em ADS e com especialização pela cubos academy. Aqui tu pode acompanhar meus projetos e trocar um papo comigo. Se avexe não e cola junto! 
 Não passo o dia todo codando, sou apaixonado por música, cultura e tecnologia, tento encontrar equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.</p>
 </div>
-#### 🔗 Me encontre
+
+#### Me encontre 🔗
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F1CE&color:FFF)](https://www.linkedin.com/in/dev-luiz-alves/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00F1CE)](mailto:dev.luiz.alves@gmail.com)
