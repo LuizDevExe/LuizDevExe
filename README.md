@@ -5,12 +5,14 @@
     <span>Luiz Pedro</span>
 </h1>
 <div align=right>
-<img align="right" height="100" src="https://github.com/LuizDevExe/LuizDevExe/assets/109562299/46817035-5034-47c8-bf10-481ff8e35ad5"/>
 </div>
 <div align=left  >
 <p align="justify" > 
-Salve, tudo certo? Sou um pernambucano de se jogou nesse mundo da programação e desde então não quis mais sair, graduado em ADS e com especialização pela cubos academy. Aqui tu pode acompanhar meus projetos e trocar um papo comigo. Se avexe não e cola junto! 
-Não passo o dia todo codando, sou apaixonado por música, cultura e tecnologia, tento encontrar equilíbrio entre meus hobbies de jogos, atividade física e uma boa leitura.</p>
+Pernambucano que mergulhou no mundo da programação e encontrou sua paixão no Backend com Java, graduado em Análise e Desenvolvimento de Sistemas e impulsionado pelo curso Backend Oracle One. Aqui compartilho meus projetos, conquistas e aprendizados, sempre pronto para trocar ideias, colaborar e encarar novos desafios.
+
+Quando não estou codando, você vai me encontrar escutando música, conhecendo novas culturas, jogando, fazendo algum exercício ou devorando um bom livro. Acredito que equilíbrio e curiosidade alimentam criatividade, produtividade e soluções inovadoras. Cola junto ai pra acompanhar esse caos!
+
+</p>
 </div>
 
 #### Me encontre 🔗
