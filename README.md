@@ -6,7 +6,7 @@ Aqui você pode acompanhar minha evolução e explorar alguns dos projetos que v
 
 Atualmente, estou participando da última fase do programa Oracle One, aprimorando ainda mais minhas habilidades técnicas e práticas de mercado.
 
-💡 Estou aberto a novas oportunidades e conexões — sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato!
+Estou aberto a novas oportunidades e conexões — sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato!
 
 <div align="left">
   
