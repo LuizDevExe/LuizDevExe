@@ -8,6 +8,16 @@ Atualmente, estou participando da última fase do programa Oracle One, aprimoran
 
 💡 Estou aberto a novas oportunidades e conexões — sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato!
 
+<div align="left">
+  
+<a href="mailto:dev.luiz.alves@gmail.com" alt="Gmail" target="blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/dev-luiz-alves/" alt="Linkedin" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+</div>
+
 <h2></h2>
   <br>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding mario" width="40%">
