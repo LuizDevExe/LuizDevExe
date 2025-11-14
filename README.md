@@ -29,7 +29,7 @@ Estou aberto a novas oportunidades e conexões — sinta-se à vontade para dar 
   </p>  
   <p>  
   <h3><strong> 📖 Estudando atualmente </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nestjs,next,kafka,mysql,postgres,prisma,docker" width="20%">   
+  <img src="https://skillicons.dev/icons?i=nestjs,next,mysql,postgres,prisma,docker" width="20%">   
   </p> 
  </div> 
 
