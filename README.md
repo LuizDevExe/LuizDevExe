@@ -33,15 +33,10 @@ Estou aberto a novas oportunidades e conexões — sinta-se à vontade para dar 
   </p> 
  </div> 
 
- <div align="center">
-  <br><h2></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=LuizDevExe&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
- </div>
  
 <br><h2></h2><br>
 
 <div align="center"> 
-<img src= "https://github-readme-stats.vercel.app/api?username=LuizDevExe&theme=shadow_red" width="46%" alt="stats graph" />
 
 <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=LuizDevExe&theme=shadow_red&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
 
